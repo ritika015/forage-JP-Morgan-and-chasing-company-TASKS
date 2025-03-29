@@ -1,4 +1,3 @@
-Here is a sample README file for the GitHub repository "forage-JP-Morgan-and-chasing-company-TASKS". You can modify the content to better fit your specific needs or details.
 
 # Forage JP Morgan & Chase Company Tasks
 
